@@ -24,13 +24,9 @@ contract Report{
     {
         return(name,rollno,maths,science,computer,history,status);
     
-    }
-        
-
-    
+    }   
     
 }
-
 
 ROPSTEN TRANSACTION LINK
 https://ropsten.etherscan.io/tx/0x508de7356053960b46ab09d914c4e9ec88eedb3bd98d918feec26bf25e0d8dd9
